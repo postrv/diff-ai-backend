@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+databases
+psycopg2
+pydantic
+pydantic-settings
+sqlalchemy
+python-multipart
+python-jose>=3.4.0
+passlib
+pytest
+pytest-asyncio
+faker
+anthropic
